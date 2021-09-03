@@ -18,8 +18,8 @@
 - NASA Project : 
     * Integrate the data captured by the flight simulator and data from eye tracking, so these data types can be “played back” and easily aligned                    with the video data.
     * Develop a simplified “cartoon” of the flight deck as the visualization that will play back the values from the sim, such as airplane altitude, control mode, distance from way points.
-- Traversal Project :
-    * Created a library package to provide facilities for manipulating graphs, plus two clients that use the package.
+- SQL Project :
+    * Created SQL project utilizing different functions to produce variety of results using different tables and schemas. 
 
 <!---
 mina990209/mina990209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
